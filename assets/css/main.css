@@ -39,6 +39,10 @@ blockquote, q {
     content: '';
     content: none; }
 
+.profile-pic{
+  margin-left: 80;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0; }
@@ -128,7 +132,7 @@ em, i {
   font-style: italic; }
 
 p {
-  margin: 0 0 2em 0; }
+  margin: 0 0 5px 0; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
@@ -1298,6 +1302,7 @@ ul.actions {
   display: flex;
   cursor: default;
   list-style: none;
+  margin-top:35px;
   margin-left: -1em;
   padding-left: 0; }
   ul.actions li {
