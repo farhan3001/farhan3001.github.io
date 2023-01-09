@@ -1250,7 +1250,7 @@ input[type="radio"] + label:before {
 
 .images {
   border-radius: 0.375em;
-  margin-right: 20;
+  margin-right: 40;
   border: 0;
   display: inline-block;
   position: relative; }
